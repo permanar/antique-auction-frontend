@@ -17,4 +17,4 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+This is the frontend site used along with the backend server. The site used Nuxt.js (Vue) as the frontend view.
